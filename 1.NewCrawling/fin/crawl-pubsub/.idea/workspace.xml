@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7f0d3e24-84e1-4109-9bb4-801a3c9f320b" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api/src/main/java/com/newscrawling/core/controller/CrawlingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api/src/main/java/com/newscrawling/core/service/CrawlingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../common/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../common/src/main/java/com/newscrawling/common/dto/CrawlRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../common/src/main/java/com/newscrawling/common/dto/CrawlResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../common/src/main/java/com/newscrawling/common/enums/CrawlMode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../common/src/main/java/com/newscrawling/common/enums/Source.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../common/src/main/java/com/newscrawling/common/pubsub/CrawlJobMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../common/src/main/java/com/newscrawling/common/pubsub/Topics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/newscrawling/producer/CrawlProducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/newscrawling/worker/CrawlWorker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crawl/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crawl/src/main/java/com/newscrawling/crawl/Crawler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crawl/src/main/java/com/newscrawling/crawl/CrawlerFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crawl/src/main/java/com/newscrawling/crawl/JsoupCrawler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crawl/src/main/java/com/newscrawling/crawl/service/CrawlingExecute.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/newscrawling/fin/FinApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/newscrawling/fin/config/CrawlProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/newscrawling/fin/scheduler/StandaloneDirectScheduler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/newscrawling/fin/scheduler/StandalonePubSubScheduler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/newscrawling/fin/sevice/StandaloneDirectExecutor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/com/newscrawling/fin/FinApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="35YsXkm9J8vVnJABmSy3PFq75MN" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  }
+}</component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="7f0d3e24-84e1-4109-9bb4-801a3c9f320b" name="변경" comment="" />
+      <created>1763298380983</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763298380983</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,5 +1,5 @@
 server:
-  port: 8888
+  port: 8889
 
 logging:
   level:
@@ -31,3 +31,8 @@ spring:
   sql:
     init:
       mode: always
+
+slack:
+  channel:
+    monitor: "bot"
+

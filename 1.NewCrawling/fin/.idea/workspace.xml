@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35ced777-01b3-4939-b180-ef4ed171c140" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/newscrawling/core/controller/CrawlingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/com/newscrawling/core/service/CrawlingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/newscrawling/common/dto/CrawlRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/newscrawling/common/dto/CrawlResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/newscrawling/common/enums/CrawlMode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/newscrawling/common/enums/Source.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/newscrawling/common/pubsub/CrawlJobMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/newscrawling/common/pubsub/Topics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawl-pubsub/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawl-pubsub/src/main/java/com/newscrawling/producer/CrawlProducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawl-pubsub/src/main/java/com/newscrawling/worker/CrawlWorker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawl/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawl/src/main/java/com/newscrawling/crawl/Crawler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawl/src/main/java/com/newscrawling/crawl/CrawlerFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawl/src/main/java/com/newscrawling/crawl/JsoupCrawler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawl/src/main/java/com/newscrawling/crawl/service/CrawlingExecute.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/newscrawling/fin/FinApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/newscrawling/fin/config/CrawlProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/newscrawling/fin/scheduler/StandaloneDirectScheduler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/newscrawling/fin/scheduler/StandalonePubSubScheduler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/newscrawling/fin/sevice/StandaloneDirectExecutor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/newscrawling/fin/FinApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="fin" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="fin" type="f1a62948:ProjectNode" />
+                <item name="crawl-pubsub" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="fin" type="f1a62948:ProjectNode" />
+                <item name="crawl-pubsub" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="35SzQ9cc8vzp2FvDuAr6IsNF7t6" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Gradle.fin [:com.newscrawling.fin.FinApplication.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.fin 빌드.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.fin.executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.소스 다운로드.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/git/FinSight/1.NewCrawling/fin/build.gradle&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/git/FinSight/1.NewCrawling/fin/api/src/main/java/com/newscrawling/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.annotationProcessors&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.newscrawling.common.dto" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\git\FinSight\1.NewCrawling\fin\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\git\FinSight\1.NewCrawling\fin\common\src\main\java\com\newscrawling\common\enums" />
+      <recent name="D:\git\FinSight\1.NewCrawling\fin\common\src\main\java\com\newscrawling\common\dto" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.newscrawling.core.service" />
+      <recent name="com.newscrawling.core.controller" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="FinApp" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.newscrawling.fin.FinApplication" />
+      <module name="fin.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="fin.crawl-pubsub" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="fin.crawl-pubsub" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="35ced777-01b3-4939-b180-ef4ed171c140" name="변경" comment="" />
+      <created>1763118241400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763118241400</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/api/src/main/java/com/newscrawling/core/service/CrawlingService.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/crawl/src/main/java/com/newscrawling/crawl/JsoupCrawler.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/crawl/src/main/java/com/newscrawling/crawl/JsoupCrawler.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="NONE" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/newscrawling/fin/scheduler/StandalonePubSubScheduler.java</url>
+          <line>10</line>
+          <log-expression expression="&#10;public class StandalonePubSubScheduler {&#10;}&#10;" language="JAVA" />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="GradleRunConfiguration">
+        <watch expression="doc" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
