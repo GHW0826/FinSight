@@ -1,1 +1,5 @@
 rootProject.name = 'fin'
+
+include ':spring-modules:crawl'
+include("spring-modules:commons")
+include("spring-modules:auth")
